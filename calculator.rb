@@ -6,13 +6,13 @@ second_variable = 5.5
 mode = add
 
 def calculator(first_variable, second_variable, mode)
-  when mode == add
+  when mode == "add"
     puts first_variable + second_variable
-    when mode == subtract
+    when mode == "subtract"
       puts first_variable - second_variable
-      when mode == multiply 
+      when mode == "multiply" 
         puts first_variable * second_variable
-        when mode == divide
+        when mode == "divide"
           puts first_variable / second_variable
         else null
       end
