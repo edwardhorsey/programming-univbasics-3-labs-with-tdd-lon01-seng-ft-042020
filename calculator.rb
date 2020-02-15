@@ -16,3 +16,5 @@ def calculator(first_variable, second_variable, mode)
           puts first_variable / second_variable
         else null
       end
+      
+calculator(2, 3, subtract)
