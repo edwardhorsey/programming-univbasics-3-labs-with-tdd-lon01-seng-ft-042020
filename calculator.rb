@@ -1,8 +1,8 @@
 # Add your variables here
 
 
-first_variable = 3.5 
-second_variable = 5.5
+first_variable = "1"
+second_variable = 2
 
 # sum = first_variable+second_variable
 
