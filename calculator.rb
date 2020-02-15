@@ -1,8 +1,8 @@
 # Add your variables here
 
 
-first_variable = "1"
-second_variable = 2
+first_number = 3
+second_number = 2
 
 # sum = first_variable+second_variable
 
