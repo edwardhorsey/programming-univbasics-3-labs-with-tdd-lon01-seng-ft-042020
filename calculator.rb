@@ -5,7 +5,8 @@ first_number = 3
 second_number = 2
 sum = 
 difference = 
-
+product =
+quotiont 
 
 
 # sum = first_variable+second_variable
