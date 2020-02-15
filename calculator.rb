@@ -4,7 +4,7 @@
 first_variable = 3.5 
 second_variable = 5.5
 
-sum = first_variable+second_variable
+# sum = first_variable+second_variable
 
 # def calculator(first_variable, second_variable, mode)
 #   when mode == "add"
