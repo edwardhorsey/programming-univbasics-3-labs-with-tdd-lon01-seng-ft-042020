@@ -3,7 +3,6 @@
 
 first_variable = 3.5 
 second_variable = 5.5
-mode = add
 
 # def calculator(first_variable, second_variable, mode)
 #   when mode == "add"
